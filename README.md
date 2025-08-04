@@ -28,7 +28,7 @@ ResumeAgent-GIGA is an AI-powered resume analyzer built using **Python**, **Stre
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/ResumeAgent-GIGA.git
+git clone https://github.com/ShreyaDhurde/ResumeAgent-ImageAnalysis.git
 cd ResumeAgent-GIGA
 
 
